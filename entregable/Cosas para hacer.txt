@@ -1,0 +1,6 @@
+1-Login de usuario usando simplemente su e-mail y password.(mvc)
+2-Registración de un usuario. Los datos solicitados son los mínimos necesarios. No se contempla verificaciones a excepción de la cuenta de email, que no puede estar asociada a otro usuario, y la aceptación de términos y condiciones.
+3-Visualización del Balance y  Mis Activos, con posibilidad de exportación en archivo con formato “valores separado por coma” (CSV).
+4-Visualización de las Transacciones realizadas en el sistema.
+
+5. hay que cambiar la forma de compra y swap porq lo toma en dolares
